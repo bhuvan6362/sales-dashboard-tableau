@@ -19,4 +19,5 @@ This project is a Tableau dashboard created using the Superstore dataset.
 3. Explore the dashboard.
 
 ## 🖼️ Dashboard Preview
-(Add a screenshot here for quick preview)
+uploded in above files
+
